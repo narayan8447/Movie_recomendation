@@ -3,4 +3,4 @@
 
 A Streamlit web app that recommends movies based on similarity.
 
-👉 **Live Demo:** [Click here to try it](https://your-app-name.streamlit.app)
+👉 **Live Demo:** [Click here to try it](https://movierecomendation-fjnnuetgbn8vhxogy8qkg6.streamlit.app/)
